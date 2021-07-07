@@ -1,0 +1,2 @@
+#!/bin/bash
+echo Fanny is total kraaass!
