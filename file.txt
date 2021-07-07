@@ -1,2 +1,3 @@
 #!/bin/bash
 echo Fanny is total kraaass!
+echo Aber Maxi auch.
